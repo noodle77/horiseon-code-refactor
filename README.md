@@ -24,4 +24,4 @@ W3Schools - https://www.w3schools.com/tags/default.asp
 
 ## Preview
 
-![Screenshot](./Develop/assets/images/screenshot.jpeg)
+![Screenshot](./assets/images/screenshot.jpeg)
